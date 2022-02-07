@@ -1,4 +1,8 @@
 {
-  "path": "cz-conventional-changelog",
-  "path": "cz-emoji"
+  "path": "cz-emoji",
+  "config": {
+    "cz-emoji": {
+      "symbol": true
+    }
+  }
 }
